@@ -14,3 +14,4 @@ hub pull-request -b <원본 저장소 브랜치> -h <fork한 저장소 브랜치
 wonseokchoi test2
 testtest333
 Mcdonald best choice
+BurgerKing not good
