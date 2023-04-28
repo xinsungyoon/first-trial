@@ -3,3 +3,4 @@
 add new contents
 
 Mcdonald best choice
+BurgerKing not good
